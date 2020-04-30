@@ -1,13 +1,12 @@
 **Background**
 ====================================
 **The expression level in DAP15 kernel of the 368 association panel was quantified based on RNA-seq. Read counts for each gene were calculated and scaled according to RPKM. After RPKM normalization, all genes with a median expression level larger than zero for each sample were included, and the overall distribution among 368 lines of expression levels for each gene is normalized using a normal quantile transformation.**
-
-**Background**
+**Datasets**
 ====================================
 
- Expression_finalNormalized_28850.tar.gz     | QQ-normed of RPKM expression for GWAS.
- Genes_reads_rpkmNormalized.tar.gz     |  RPKM based on genes.
- Transcripts_reads_rpkmNormalized.tar.gz     |  RPKM based on transcripts.
+ Expression_finalNormalized_28850.tar.gz: QQ-normed of RPKM expression for GWAS.
+ Genes_reads_rpkmNormalized.tar.gz: RPKM based on genes.
+ Transcripts_reads_rpkmNormalized.tar.gz: RPKM based on transcripts.
 
 ====================================
 >## Related papers:
